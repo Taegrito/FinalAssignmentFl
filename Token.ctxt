@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Token
+comment1.params=type\ value
+comment1.target=Token(TokenType,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getValue()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
