@@ -28,3 +28,7 @@ git clone https://github.com/Taegrito/FinalAssignmentFl.git
 2. Open the project in a Java compiler such as BlueJ or visual studio
 
 3. Run the code
+## Video for more information
+```bash
+https://youtu.be/gYIzL1GAWdM
+```
