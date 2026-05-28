@@ -1,21 +1,25 @@
 public enum TokenType {
 
-    // Keywords
+    // Palabras reservadas del lenguaje
+    // Son instrucciones que tienen un significado especial
     RULE,
     IF,
     THEN,
     AND,
 
-    // Símbolos
+    // Símbolos utilizados en las condiciones
     COLON,
     GREATER,
     LESS,
     EQUAL,
-    STATE,
-    // Datos
+
+    // Tipos de datos básicos del lenguaje
+    // ID representa identificadores
     ID,
+
+    // VALUE representa números enteros
     VALUE,
 
-    // Fin del archivo
+    // EOF significa End Of File indica el final de la entrada
     EOF
 }
